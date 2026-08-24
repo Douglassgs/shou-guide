@@ -21,6 +21,7 @@
   },
   "type": "module",
   "devDependencies": {
-    "vitepress": "2.0.0-alpha.19"
+    "vitepress": "2.0.0-alpha.19",
+    "vitepress-sidebar": "^1.39.0"
   }
 }
