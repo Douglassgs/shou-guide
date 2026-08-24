@@ -15,6 +15,7 @@ const vitePressSidebarOptions = {
 export default defineConfig(
   withSidebar(
     {
+      base: '/shou-guide/',
       title: "SHOU生存指北",
       description: "上海海洋大学校园生活与进阶指南",
       lang: 'zh-CN',
