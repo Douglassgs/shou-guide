@@ -2,6 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base: '/shou-guide/',
   title: "SHOU指北",
   description: "A VitePress Site",
   themeConfig: {
